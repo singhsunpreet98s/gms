@@ -1,0 +1,23 @@
+{
+    "index": 4,
+    "data": [
+        {
+            "name": "Sunpreet",
+            "phone": 9468402853,
+            "is_active": true,
+            "id": 1
+        },
+        {
+            "name": "Arjun",
+            "phone": 9829493243,
+            "is_active": true,
+            "id": 2
+        },
+        {
+            "name": "Mukul",
+            "phone": 3243243242,
+            "is_active": true,
+            "id": 3
+        }
+    ]
+}
